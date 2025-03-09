@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # MikroTik Manager/Monitor
 
 Đây là ứng dụng quản lý và giám sát thiết bị MikroTik toàn diện, giúp theo dõi lưu lượng mạng, quản lý thiết bị và phân tích dữ liệu traffic theo thời gian thực.
@@ -115,3 +116,6 @@ Mọi đóng góp đều được đánh giá cao! Vui lòng tạo issue hoặc 
 =======
 # Mmc
 >>>>>>> 1209f38a7bfdf37baa9c6ea92ea6b8388f6360c8
+=======
+# mikrotik-msc
+>>>>>>> f7cf2fa1d26cd4a8cdb55693d9d3cdd7d08c434f
